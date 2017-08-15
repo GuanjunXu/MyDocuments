@@ -1,0 +1,81 @@
+﻿{
+	"status": 2,
+	"data": {
+		"is_trigger": "",
+		"query_info": "false",
+		"server_current_time": 1490781092000,
+		"data_count": 1,
+		"experiment_id": "",
+		"correctedKey": "",
+		"data_list": [{
+			"hotwork": [{
+				"subSrc": "letv",
+				"playMark": "0",
+				"global_id": "album_10016539",
+				"aid": "10016539",
+				"videoType": "180001",
+				"payPlatform": {},
+				"categoryName": "综艺",
+				"category": "11",
+				"name": "最强大脑第三季",
+				"poster": "http://i0.letvimg.com/lc02_isvrs/201512/15/11/51/6319863a-a818-4cdd-a882-f0eeef5a4e47.jpg",
+				"ispay": "0",
+				"src": "1",
+				"isHomemade": "0"
+			}, {
+				"subSrc": "letv",
+				"playMark": "0",
+				"global_id": "album_10022143",
+				"aid": "10022143",
+				"videoType": "180001",
+				"payPlatform": {},
+				"categoryName": "电影",
+				"category": "1",
+				"name": "功夫熊猫3 英语版",
+				"poster": "http://i3.letvimg.com/lc04_isvrs/201605/12/11/05/04b55988-bcd3-4bb5-b398-7fa7f81e4597.jpg",
+				"ispay": "0",
+				"src": "1",
+				"isHomemade": "0"
+			}, {
+				"subSrc": "iqiyi",
+				"playMark": "0",
+				"global_id": "leso_354800",
+				"aid": "354800",
+				"videoType": "180001",
+				"payPlatform": {},
+				"categoryName": "电影",
+				"category": "1",
+				"name": "功夫熊猫3（国语）",
+				"poster": "http://i1.letvimg.com/lc05_search/201608/08/13/49/tmp_4279394282434775335.jpg",
+				"ispay": "0",
+				"src": "2",
+				"isHomemade": ""
+			}],
+			"teamName": "",
+			"position": "",
+			"sid": "232",
+			"otherName": "周董",
+			"birthday": "1979-01-18",
+			"playerNum": "",
+			"search_module_id": 1,
+			"global_id": "star_232",
+			"professional": "导演 演员 制片人 歌手",
+			"pic_prefix": {
+				"1_1": "http://i3.letvimg.com/lc01_isvrs/201507/22/18/08/20150722_12060/11_"
+			},
+			"country": "",
+			"englishName": "Jay Chou",
+			"dataType": "3",
+			"areaName": "台湾",
+			"search_module_title": "乐视视频",
+			"leId": "232",
+			"description": "中国台湾华语流行歌手、著名音乐人、音乐创作家、作曲家、作词人、制作人、杰威尔音乐公司老板之一、导演。近年涉足电影行业。在歌坛创出奇迹的周杰伦于2005年杀入电影圈，在影片《头文字D》中饰演主角拓海，其自然的表演不但让众多的歌迷为其疯狂，还为其赢得了金马最佳新人奖项。近期作品：《大灌篮》、《苏乞儿》、《刺陵》。",
+			"name": "周杰伦",
+			"starSrc": "1",
+			"poster": "http://i3.letvimg.com/lc01_isvrs/201507/22/18/08/20150722_12060/11_168_168.jpg",
+			"le_mobile_app_id": 1
+		}],
+		"eid": "2213065907061798557",
+		"ec": 1
+	}
+}
